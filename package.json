@@ -5,7 +5,8 @@
   "scripts": {
   },
   "dependencies": {
-    "makomi-adapter": "*"
+    "makomi-adapter": "*",
+    "pg": "*"
   }
 }
 
